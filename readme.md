@@ -7,3 +7,4 @@ Bem vindo ao repositporio do site oficial do Ares Jr! Esse projeto é elaborado 
 - **Homepage**: Mostrando os últimos conteúdos produzidos por Ares Jr
 - **Galeria de Vídeos**: Mostra os vídeos e lives do Ares.
 - **Seção Sobre Mim**: Saiba mais sobre Ares e sua jornada.
+- **Seção Sobre Mim 2**: Saiba mais sobre Ares e sua jornada.
